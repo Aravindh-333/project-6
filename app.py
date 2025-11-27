@@ -1,2 +1,1 @@
-echo "print('Master commit 1')" 
-echo "print("Master commit 2")
+print("comit in b1")
